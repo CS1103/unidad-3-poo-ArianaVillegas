@@ -1,0 +1,3 @@
+/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles/proy.dir
+/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles/edit_cache.dir
