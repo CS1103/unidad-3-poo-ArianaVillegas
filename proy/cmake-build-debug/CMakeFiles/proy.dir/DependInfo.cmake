@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/Simulador.cpp" "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles/proy.dir/Simulador.cpp.o"
   "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/Tester.cpp" "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles/proy.dir/Tester.cpp.o"
+  "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/main.cpp" "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles/proy.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

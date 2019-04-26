@@ -3,4 +3,4 @@ project(proy)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(proy Simulador.cpp Simulador.h Tester.cpp)
+add_executable(proy main.cpp Simulador.cpp Simulador.h Tester.cpp)

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/proy.dir/Simulador.cpp.o CMakeFiles/proy.dir/Tester.cpp.o  -o proy 
+/usr/bin/c++  -g   CMakeFiles/proy.dir/main.cpp.o CMakeFiles/proy.dir/Simulador.cpp.o CMakeFiles/proy.dir/Tester.cpp.o  -o proy 

@@ -8,3 +8,7 @@ CMakeFiles/proy.dir/Tester.cpp.o: ../Simulador.h
 CMakeFiles/proy.dir/Tester.cpp.o: ../Tester.cpp
 CMakeFiles/proy.dir/Tester.cpp.o: ../catch.hpp
 
+CMakeFiles/proy.dir/main.cpp.o: ../Simulador.h
+CMakeFiles/proy.dir/main.cpp.o: ../catch.hpp
+CMakeFiles/proy.dir/main.cpp.o: ../main.cpp
+

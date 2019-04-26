@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVi
 CMakeFiles/proy.dir/all:
 	$(MAKE) -f CMakeFiles/proy.dir/build.make CMakeFiles/proy.dir/depend
 	$(MAKE) -f CMakeFiles/proy.dir/build.make CMakeFiles/proy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target proy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4 "Built target proy"
 .PHONY : CMakeFiles/proy.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/proy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/proy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles" 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/proy.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/proy.dir/rule

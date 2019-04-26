@@ -13,15 +13,15 @@
 class Carga{
 private:
     long k=8.99*pow(10,9);
-    int posx;
-    int posy;
+    double posx;
+    double posy;
     double q;
 public:
-    Carga(int nposx, int nposy, double nq):posx(nposx),posy(nposy),q(nq){};
+    Carga(double nposx, double nposy, double nq):posx(nposx),posy(nposy),q(nq){};
     ~Carga(){};
-    double CalcularVoltaje(int posx2, int posy2);
-    int Getx(){ return posx;};
-    int Gety(){ return posy;};
+    double CalcularVoltaje(double posx2, double posy2);
+    double Getx(){ return posx;};
+    double Gety(){ return posy;};
 };
 
 class Simulador{
@@ -33,10 +33,10 @@ private:
     int n;
     int m;
 public:
-    Simulador(int nnumcargas, double nh, double nw, int nn, int nm);
+    Simulador(int nnumcargas, double nw, double nh, int nm, int nn);
     ~Simulador();
-    Carga ** GetListCarga(){ return ListCarga;};
-    void RellenarAleatorio();
+    void AgregarCarga(int i, double x, double y, double q);
+    void Rellenar();
     double VoltajeInterceccion(int posx, int posy);
     void ImprimirVolInteracciones();
 };

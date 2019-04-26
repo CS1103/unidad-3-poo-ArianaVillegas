@@ -93,6 +93,9 @@
 		<Unit filename="/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/Tester.cpp">
 			<Option target="proy"/>
 		</Unit>
+		<Unit filename="/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/main.cpp">
+			<Option target="proy"/>
+		</Unit>
 		<Unit filename="/home/ariana/UTEC/POO 2/CLASES/Clase_3/unidad-3-poo-ArianaVillegas/proy/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

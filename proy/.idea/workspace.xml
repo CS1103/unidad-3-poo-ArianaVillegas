@@ -11,7 +11,30 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f739e957-547a-4022-9394-bf19fcaabcd8" name="Default Changelist" comment="" />
+    <list default="true" id="f739e957-547a-4022-9394-bf19fcaabcd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulador.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Simulador.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulador.h" beforeDir="false" afterPath="$PROJECT_DIR$/Simulador.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tester.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/Simulador.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/Simulador.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/Tester.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/Tester.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/proy.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/proy" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/proy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/proy.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/proy.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +51,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state>
+              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#27#46#0" expanded="true" />
+                <element signature="e#138#626#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Simulador.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tester.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="e#96#118#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Simulador.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="262">
+              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding>
                 <element signature="e#92#108#0" expanded="true" />
               </folding>
@@ -50,31 +95,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Simulador.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tester.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#67#87#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -89,12 +113,12 @@
       <list>
         <option value="$PROJECT_DIR$/Carga.h" />
         <option value="$PROJECT_DIR$/Carga.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/../../../Clase_2/unidad-1-linked-list-vs-binary-search-tree-ArianaVillegas/Tester.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Simulador.h" />
-        <option value="$PROJECT_DIR$/Simulador.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Tester.cpp" />
+        <option value="$PROJECT_DIR$/Simulador.cpp" />
       </list>
     </option>
   </component>
@@ -109,10 +133,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="485" />
-    <option name="y" value="27" />
-    <option name="width" value="881" />
-    <option name="height" value="735" />
+    <option name="x" value="165" />
+    <option name="y" value="67" />
+    <option name="width" value="899" />
+    <option name="height" value="594" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -135,8 +159,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Clase_2/unidad-1-linked-list-vs-binary-search-tree-ArianaVillegas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Clase_4/p1/Progression_test.cpp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -152,8 +177,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Catch.Simulación">
-    <configuration name="Carga" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="proy" TARGET_NAME="proy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="proy" RUN_TARGET_NAME="proy" TEST_METHOD="Carga" TEST_MODE="SUITE_TEST">
+  <component name="RunManager" selected="Catch.Scenario: Simulación">
+    <configuration name="Carga" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="proy" TARGET_NAME="proy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="proy" RUN_TARGET_NAME="proy" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Carga" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="proy" TARGET_NAME="proy" RUN_TARGET_PROJECT_NAME="proy" RUN_TARGET_NAME="proy" TEST_METHOD="Scenario: Carga" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Simulación" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="proy" TARGET_NAME="proy" RUN_TARGET_PROJECT_NAME="proy" RUN_TARGET_NAME="proy" TEST_METHOD="Scenario: Simulación" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
@@ -172,13 +209,17 @@
     </configuration>
     <list>
       <item itemvalue="Catch.Carga" />
-      <item itemvalue="CMake Application.proy" />
       <item itemvalue="Catch.Simulación" />
+      <item itemvalue="CMake Application.proy" />
+      <item itemvalue="Catch.Scenario: Carga" />
+      <item itemvalue="Catch.Scenario: Simulación" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Catch.Simulación" />
+        <item itemvalue="Catch.Scenario: Simulación" />
+        <item itemvalue="Catch.Scenario: Carga" />
         <item itemvalue="Catch.Carga" />
+        <item itemvalue="Catch.Simulación" />
       </list>
     </recent_temporary>
   </component>
@@ -196,48 +237,49 @@
       <workItem from="1556134629264" duration="85000" />
       <workItem from="1556149517051" duration="8224000" />
       <workItem from="1556288813740" duration="3396000" />
+      <workItem from="1556296336018" duration="6443000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Carga - 2019.04.26 at 09h 54m 41s.xml">
-      <configuration name="Carga" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 13h 56m 06s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Carga - 2019.04.26 at 09h 57m 44s.xml">
-      <configuration name="Carga" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 04m 09s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Carga - 2019.04.26 at 09h 58m 27s.xml">
-      <configuration name="Carga" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 04m 56s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Carga - 2019.04.26 at 10h 01m 15s.xml">
-      <configuration name="Carga" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 10m 48s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Carga - 2019.04.26 at 10h 02m 47s.xml">
-      <configuration name="Carga" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 12m 12s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Carga - 2019.04.26 at 10h 14m 32s.xml">
-      <configuration name="Carga" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 13m 17s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Simulación - 2019.04.26 at 10h 15m 39s.xml">
-      <configuration name="Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 13m 54s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Simulación - 2019.04.26 at 10h 17m 06s.xml">
-      <configuration name="Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 14m 32s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Simulación - 2019.04.26 at 10h 21m 00s.xml">
-      <configuration name="Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 15m 14s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="Simulación - 2019.04.26 at 10h 22m 27s.xml">
-      <configuration name="Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
+    <history-entry file="Scenario__Simulación - 2019.04.26 at 14h 15m 43s.xml">
+      <configuration name="Scenario: Simulación" configurationId="CMakeCatchTestRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18055000" />
+    <option name="totallyTimeSpent" value="24498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16201118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2386273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,6 +300,28 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2386273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28990227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -281,47 +345,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../../../Clase_4/p1/Progression_test.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Simulador.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="262">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
             <element signature="e#92#108#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Simulador.cpp">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#27#46#0" expanded="true" />
+            <element signature="e#138#626#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tester.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="354">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
           <folding>
-            <element signature="e#67#87#0" expanded="true" />
+            <element signature="e#96#118#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulador.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
         </state>
       </provider>
     </entry>
